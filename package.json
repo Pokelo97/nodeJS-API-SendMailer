@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "",
+  "author": "Lucky Mohlala",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^10.0.0",
